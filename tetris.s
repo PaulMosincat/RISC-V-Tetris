@@ -1,21 +1,4 @@
-#***************************************
-#
-# Student Name: Paul Mosincat
-# Student Email: pmosincat@hawk.illinoistech.edu
-# Course: CS 350 Computer Organization and Assembly Language Programming
-# Assignment: Tetris Project
-#
-# Summary of Assignment Purpose: The purpose of this assignment 
-#
-# Date of Initial Creation: April 29, 2026 at 5pm 
-#
-# Description of Program Purpose: The purpose of the project is to use MMIO, timers, event programming, and Bitmap to develop Tetris
-#
-# Functions and Modules in this file: Most of the functions in this project revolve around tetris. There is random feature, tetris controls, locking, dropping and rotating, and lastly clearing.
-# All of these functions are the basic features that tetris uses in terms of gameplay.
-#
-# Additional Required Files: N/A
-#
+
 #****************** Setup/Controls *********************
 # These are controls and display setting for the most optimal gameplay.
 # The project should assemble then just connect the 3 tools, start the timer and then you should be able to play and control the peice through the MMIO.
